@@ -7,5 +7,7 @@ public class AddToCartFeature {
 		
 		System.out.println("New feature f2");
 		
+		System.out.println("New feature f3");
+		
 	}
 }
